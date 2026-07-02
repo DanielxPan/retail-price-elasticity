@@ -1,0 +1,6 @@
+pandas
+numpy
+pyfixest
+psycopg2-binary
+xlsxwriter
+python-dateutil
